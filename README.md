@@ -8,6 +8,12 @@ Halaman login sederhana bertema romantis dengan tampilan glassmorphism, latar ga
 
 ### Preview
 
+![Sample Preview](sample.png)
+
+<video src="sample.mov" controls width="100%"></video>
+
+[Open video preview](sample.mov)
+
 This project includes:
 - Minimal login form (username and password)
 - Transparent blur login card (glassmorphism effect)
@@ -27,6 +33,8 @@ Love Login Page/
 ├── style.css
 ├── background.jpeg
 ├── sakura.mp4
+├── sample.png
+├── sample.mov
 └── README.md
 ```
 
@@ -66,6 +74,12 @@ Free to use for learning and personal development.
 
 ### Preview
 
+![Sample Preview](sample.png)
+
+<video src="sample.mov" controls width="100%"></video>
+
+[Buka video preview](sample.mov)
+
 Project ini menampilkan:
 - Form login minimalis (username dan password)
 - Efek blur transparan pada kartu login (glassmorphism)
@@ -85,6 +99,8 @@ Love Login Page/
 ├── style.css
 ├── background.jpeg
 ├── sakura.mp4
+├── sample.png
+├── sample.mov
 └── README.md
 ```
 
