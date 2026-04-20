@@ -10,7 +10,7 @@ Halaman login sederhana bertema romantis dengan tampilan glassmorphism, latar ga
 
 ![Sample Preview](sample.png)
 
-<video src="sample.mov" controls width="100%"></video>
+<video src="sample.mp4" controls width="100%"></video>
 
 [Open video preview](sample.mp4)
 
@@ -34,7 +34,7 @@ Love Login Page/
 ├── background.jpeg
 ├── sakura.mp4
 ├── sample.png
-├── sample.mov
+├── sample.mp4
 └── README.md
 ```
 
@@ -76,9 +76,9 @@ Free to use for learning and personal development.
 
 ![Sample Preview](sample.png)
 
-<video src="sample.mov" controls width="100%"></video>
+<video src="sample.mp4" controls width="100%"></video>
 
-[Buka video preview](sample.mov)
+[Buka video preview](sample.mp4)
 
 Project ini menampilkan:
 - Form login minimalis (username dan password)
@@ -100,7 +100,7 @@ Love Login Page/
 ├── background.jpeg
 ├── sakura.mp4
 ├── sample.png
-├── sample.mov
+├── sample.mp4
 └── README.md
 ```
 
