@@ -12,7 +12,7 @@ Halaman login sederhana bertema romantis dengan tampilan glassmorphism, latar ga
 
 <video src="sample.mov" controls width="100%"></video>
 
-[Open video preview](sample.mov)
+[Open video preview](sample.mp4)
 
 This project includes:
 - Minimal login form (username and password)
